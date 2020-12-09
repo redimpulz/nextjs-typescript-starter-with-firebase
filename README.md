@@ -1,9 +1,9 @@
-# nextjs-typescript-starter
+# nextjs-typescript-starter-with-firebase
 
 ## create project
 
 ```bash
-npx create-next-app app --example "https://github.com/redimpulz/nextjs-typescript-starter/tree/with_firebase"
+npx create-next-app app --example "https://github.com/redimpulz/nextjs-typescript-starter-with-firebase"
 ```
 
 ## deploy

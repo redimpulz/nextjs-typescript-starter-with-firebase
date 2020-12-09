@@ -1,5 +1,5 @@
 {
-  "name": "learn-starter",
+  "name": "nextjs-typescript-starter-with-firebase",
   "version": "0.1.0",
   "private": true,
   "main": "functions/index.js",
